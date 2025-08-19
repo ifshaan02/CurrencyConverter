@@ -1,2 +1,2 @@
 # CurrencyConverter
-Beginner Currency Converter in Java
+The CurrencyConverter is a simple Java console application that allows users to convert amounts between USD, EUR, and INR using predefined exchange rates. The program takes an amount as input, asks the user to choose the source currency and the target currency, and then performs the conversion by first converting the input amount to INR and then to the desired currency. It supports conversions between USD and INR, EUR and INR, and INR into both USD and EUR. This project is designed as a beginner-friendly example of handling user input, using constants, and applying conditional logic in Java.
